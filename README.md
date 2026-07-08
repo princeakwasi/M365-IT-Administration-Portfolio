@@ -74,6 +74,6 @@ Microsoft 365 Fundamentals (MS-900)
 
 **Contact**
 
-LinkedIn: www.linkedin.com/in/princeemmanuelboateng
+LinkedIn: www.linkedin.com/in/prince-emmanuel-boateng-66a679168
 
 
