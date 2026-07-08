@@ -20,7 +20,7 @@ Microsoft 365, Azure Active Directory, Microsoft Entra ID, Exchange Online, Shar
 Automation and Scripting
 PowerShell, Microsoft Graph API, Power Automate, ExchangeOnlineManagement module
 
-Device Management**
+Device Management
 Microsoft Intune, Endpoint Manager, Compliance Policies, Configuration Profiles, BitLocker, Windows Hello for Business
 
 Security and Compliance
