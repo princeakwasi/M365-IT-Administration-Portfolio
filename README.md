@@ -6,7 +6,7 @@ This portfolio documents the practical IT administration work completed during t
 
 ---
 
-## About Me
+ About Me
 
 I am an MSc Computer Science student at Universität Passau, Germany, with over six years of experience in IT support, system administration, and Microsoft 365 administration. This portfolio showcases my ability to automate IT workflows, manage cloud infrastructure, enforce security compliance, and solve real world IT problems using Microsoft technologies.
 
@@ -20,7 +20,7 @@ Microsoft 365, Azure Active Directory, Microsoft Entra ID, Exchange Online, Shar
 Automation and Scripting
 PowerShell, Microsoft Graph API, Power Automate, ExchangeOnlineManagement module
 
-Device Management
+*Device Management*
 Microsoft Intune, Endpoint Manager, Compliance Policies, Configuration Profiles, BitLocker, Windows Hello for Business
 
 Security and Compliance
