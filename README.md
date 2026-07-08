@@ -14,19 +14,19 @@ I am an MSc Computer Science student at Universität Passau, Germany, with over 
 
 Skills Demonstrated
 
-Cloud Administration**
+Cloud Administration
 Microsoft 365, Azure Active Directory, Microsoft Entra ID, Exchange Online, SharePoint Online, Microsoft Teams, OneDrive for Business
 
-Automation and Scripting**
+Automation and Scripting
 PowerShell, Microsoft Graph API, Power Automate, ExchangeOnlineManagement module
 
 Device Management**
 Microsoft Intune, Endpoint Manager, Compliance Policies, Configuration Profiles, BitLocker, Windows Hello for Business
 
-Security and Compliance**
+Security and Compliance
 Microsoft Secure Score, Microsoft Defender for Office 365, GDPR compliance, Data Loss Prevention, Retention Labels, Conditional Access, Privileged Identity Management
 
-Identity Management**
+Identity Management
 User lifecycle management, Group management, Licence assignment, Multi Factor Authentication, Self Service Password Reset
 
 ---
